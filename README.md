@@ -75,6 +75,6 @@ This is a solo creative project. Currently not open for external contributions.
 
 ## 📩 Contact
 
-Built with ❤️ by [Esha Sharma](https://eshadesignportfolio.framer.website)
+Built with ❤️ by Esha Sharma.
 
 📧 Connect on [LinkedIn](https://www.linkedin.com/in/esha-sharma-uix2025/)
